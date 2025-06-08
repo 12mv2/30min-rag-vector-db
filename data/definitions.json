@@ -1,0 +1,5 @@
+{
+  "cadence": "Cadence refers to the number of steps taken per minute. For humans, optimal running cadence is typically around 170–180 steps per minute, with elite sprinters reaching over 200. Animals vary widely based on physiology.",
+  "heel_strike": "Heel strike describes how the foot or paw contacts the ground. A value of 0 means toe-first, 1 means full heel-first. Intermediate values represent midfoot strike or soft heel contact.",
+  "vertical_oscillation": "Vertical oscillation measures how much the torso moves up and down during running, in centimeters. For humans, lower values (5–8 cm) usually indicate greater efficiency. Animals vary widely."
+}

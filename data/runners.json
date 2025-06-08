@@ -1,0 +1,15 @@
+[
+  {"name": "Eliud Kipchoge", "cadence": 185, "heel_strike": 0.2, "vertical_oscillation": 6.2},
+  {"name": "Usain Bolt", "cadence": 260, "heel_strike": 0.3, "vertical_oscillation": 4.8},
+  {"name": "Mo Farah", "cadence": 180, "heel_strike": 0.2, "vertical_oscillation": 7.0},
+  {"name": "Allyson Felix", "cadence": 215, "heel_strike": 0.2, "vertical_oscillation": 5.5},
+  {"name": "Kenenisa Bekele", "cadence": 190, "heel_strike": 0.2, "vertical_oscillation": 6.8},
+  {"name": "Cheetah", "cadence": 250, "heel_strike": 0.1, "vertical_oscillation": 12.5},
+  {"name": "Horse", "cadence": 150, "heel_strike": 0.6, "vertical_oscillation": 10.2},
+  {"name": "Kangaroo", "cadence": 70, "heel_strike": 0.0, "vertical_oscillation": 35.0},
+  {"name": "Dilbert", "cadence": 65, "heel_strike": 0.95, "vertical_oscillation": 14.2},
+  {"name": "Dr. Who", "cadence": 172, "heel_strike": 0.1, "vertical_oscillation": 4.2},
+  {"name": "Baron Harkonnen", "cadence": 60, "heel_strike": 0.9, "vertical_oscillation": 20.0},
+  {"name": "Shalane Flanagan", "cadence": 185, "heel_strike": 0.3, "vertical_oscillation": 7.0},
+  {"name": "Cow", "cadence": 50, "heel_strike": 0.6, "vertical_oscillation": 15.0}
+]
