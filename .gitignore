@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.env
+
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+
+# VS Code and PyCharm settings (optional, for cleaner repos)
+.vscode/
+.idea/
+
+# Compiled files
+*.so
+*.out
+*.o
+
+# Test output
+coverage/
+*.cover
+*.coverage
+*.py,cover
+
+# Node/NPM (if someone accidentally initializes)
+node_modules/
+package-lock.json
