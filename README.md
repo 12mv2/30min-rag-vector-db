@@ -53,6 +53,13 @@ OPENAI_API_KEY=your-openai-api-key
 GEMINI_API_KEY=your-gemini-api-key
 ```
 
+> ⚠️ **Note:** This project uses the legacy OpenAI Python SDK (`openai==0.28.1`).  
+> If your queries fail or raise deprecation errors, ensure you've installed this version:
+
+```bash
+pip install openai==0.28.1
+
+
 **Reminder**: Do not commit `.env` to GitHub.
 
 ### 4. Set up Pinecone (if needed)
