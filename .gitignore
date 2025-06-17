@@ -36,3 +36,5 @@ coverage/
 # Node/NPM (if someone accidentally initializes)
 node_modules/
 package-lock.json
+
+DEVNOTES.md
