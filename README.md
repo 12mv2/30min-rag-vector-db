@@ -388,19 +388,57 @@ After completing this workshop, you can:
 
 ---
 
-## 🗣️ License & Contributing
+## 🗣️ License
 
 Licensed under MIT - freely use, modify, and distribute for learning and development.
 
-**Found this helpful?** ⭐ Star the repo and share with fellow AI builders!
+---
 
-**Want to contribute?** PRs welcome for:
-- Additional sports metrics
-- New animal/character data
-- Improved visualizations
-- Documentation enhancements
+## 🤝 Contributing
+
+**Want to contribute?** PRs welcome 
+
+1. **Fork** this repo to your GitHub account
+2. **Clone** your fork locally
+
+   ```bash
+   git clone https://github.com/<your-user>/30min-rag-vector-db.git
+   cd 30min-rag-vector-db
+   ```
+3. **Create a branch** for your change
+
+   ```bash
+   git checkout -b feat/<brief-description>
+   ```
+4. **Commit** and **push** your work
+
+   ```bash
+   git commit -m "feat: <concise summary>"
+   git push origin feat/<brief-description>
+   ```
+5. **Open a Pull Request** against `main` on the upstream repo.
+6. Respond to review comments, iterate as needed, and merge 🎉
+
+### Commit Message Format
+
+```
+<type>: <short description>
+
+<body>: <what you did, why you did it, what was the problem, what did you solve>
+```
+
+Common **types**: `feat`, `fix`, `docs`, `refactor`, `chore`, `test`.
 
 ---
+
+Thank you for helping make this project better! 🚀
+
+---
+
+# **Found this helpful?** ⭐ Star the repo and share with fellow AI builders!
+
+---
+
 
 ## 🙏 Acknowledgments
 
