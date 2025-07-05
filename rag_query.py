@@ -36,7 +36,8 @@ def normalize_vector(vector):
 def embed(cadence, heel_ratio, vertical_osc):
     vec = [
         normalize_feature(cadence, 50, 250),
-        normalize_feature(heel_ratio * 90, 0, 90),
+        #normalize_feature(heel_ratio * 90, 0, 90),
+        heel_ratio,
         normalize_feature(vertical_osc, 6, 20)
     ]
     return normalize_vector(vec)
